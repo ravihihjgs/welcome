@@ -1,5 +1,9 @@
 public class Calculator1 {
     public static void main(String[] args) {
-        System.out.print("Welcome");
+        int a=10;
+        int b=5;
+        int c=a+b;
+
+        System.out.print(c);
     }
 }
